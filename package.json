@@ -1,0 +1,23 @@
+{
+  "name": "bigocoding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon -w src -e js,txt,json src/*$d*/$e.*.js",
+    "test:config": "nodemon --config ./../../nodemon.json src/day2/1.*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lptai/bigocoding.git"
+  },
+  "author": "taile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lptai/bigocoding/issues"
+  },
+  "homepage": "https://github.com/lptai/bigocoding#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
