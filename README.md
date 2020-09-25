@@ -22,12 +22,16 @@
 
 ## [Leetcode](https://leetcode.com/problemset/algorithms/)
 
-- [36. Valid Sudoku](leetcode/36.%20Valid%20Sudoku.js)
-- [37. Sudoku Solver](leetcode/37.%20Sudoku%20Solver.js)
-- [130. Surrounded Regions](leetcode/130.%20Surrounded%20Regions.js)
-- [200. Number of Islands](leetcode/200.%20Number%20of%20Islands.js)
-- [994. Rotting Oranges](leetcode/994.%20Rotting%20Oranges.js)
-- [1020. Number of Enclaves](leetcode/1020.%20Number%20of%20Enclaves.js)
+### Medium
+
+- [36. Valid Sudoku](leetcode/medium/36.%20Valid%20Sudoku.js)
+- [37. Sudoku Solver](leetcode/medium/37.%20Sudoku%20Solver.js)
+- [130. Surrounded Regions](leetcode/medium/130.%20Surrounded%20Regions.js)
+- [137. Single Number II](leetcode/medium/137.%20Single%20Number%20II.js)
+- [200. Number of Islands](leetcode/medium/200.%20Number%20of%20Islands.js)
+- [260. Single Number III](leetcode/medium/260.%20Single%20Number%20III.js)
+- [994. Rotting Oranges](leetcode/medium/994.%20Rotting%20Oranges.js)
+- [1020. Number of Enclaves](leetcode/medium/1020.%20Number%20of%20Enclaves.js)
 
 ## [Algo Expert](https://www.algoexpert.io/questions)
 
