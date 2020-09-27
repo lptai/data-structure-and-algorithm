@@ -7,7 +7,7 @@ const fs = require('fs');
 
 const rl = readline.createInterface({
   // input: process.stdin,
-  input: fs.createReadStream('bigo-coding/LECTURE 06: DFS/0.input1.json'),
+  input: fs.createReadStream('bigo-coding/LECTURE 08: DIJKSTRA ALGORITHM/0.input1.json'),
   output: process.stdout,
   terminal: false,
 });
