@@ -7,7 +7,7 @@ const fs = require('fs');
 
 const rl = readline.createInterface({
   input: process.stdin,
-  // input: fs.createReadStream('bigo-coding/LECTURE 08: DIJKSTRA ALGORITHM/0.input1.json'),
+  input: fs.createReadStream('bigo-coding/LECTURE 08: DIJKSTRA ALGORITHM/0.input1.json'),
   output: process.stdout,
   terminal: false,
 });
@@ -119,7 +119,7 @@ class Graph {
       for (let item of this.adjacency.get(node.v) || []) {
         if (!dist.has(item.v) || item.w + node.w < dist.get(item.v)) {
           dist.set(item.v, item.w + node.w);
-          pq.push({ v: item.w, w: item.w + node.w });
+          pq.push({ v: item.v, w: item.w + node.w });
         }
       }
     }
@@ -150,6 +150,7 @@ rl.on('line', function (line) {
   const result = g.dijkstra(e);
   let count = 0;
   for (let [_, value] of result) {
+    console.log(_, value);
     if (value <= t) {
       count++;
     }
