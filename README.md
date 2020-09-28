@@ -24,7 +24,7 @@
 
 ### Medium
 
-- [36. Valid Sudoku](leetcode/medium/36.%20Valid%20Sudoku.js)
+- [36. Valid Sudoku](leetcode/medium/36.%20Valid%20Sudoku.js) #graph
 - [37. Sudoku Solver](leetcode/medium/37.%20Sudoku%20Solver.js)
 - [130. Surrounded Regions](leetcode/medium/130.%20Surrounded%20Regions.js)
 - [137. Single Number II](leetcode/medium/137.%20Single%20Number%20II.js)
@@ -32,6 +32,8 @@
 - [260. Single Number III](leetcode/medium/260.%20Single%20Number%20III.js)
 - [994. Rotting Oranges](leetcode/medium/994.%20Rotting%20Oranges.js)
 - [1020. Number of Enclaves](leetcode/medium/1020.%20Number%20of%20Enclaves.js)
+- [1267. Count Servers that Communicate](leetcode/medium/1020.%20Number%20of%20Enclaves.js) #array #graph #bfs #dfs
+- [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](leetcode/medium/1267.%20Count%20Servers%20that%20Communicate.js)
 
 ## [Algo Expert](https://www.algoexpert.io/questions)
 

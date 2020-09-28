@@ -7,9 +7,12 @@
  *
  * Return the number of servers that communicate with any other server.
  *
+ * Complexity: O(n^2*m^2) todo
+ * Space: O(n*m)
  * @param {number[][]} grid
  * @return {number}
  */
+/** Solution 1
 var countServers = function (grid) {
   const key = (x, y) => `${x}-${y}`;
   const visited = {};
@@ -52,6 +55,25 @@ var countServers = function (grid) {
   }
   return count;
 };
+**/
+
+/**
+ * Solution 2
+ * @param {*} grid
+ */
+const countServers = (grid) => {
+  let queue = [];
+  const rowMap = {},
+    colMap = {};
+  for (let i = 0; i < grid.length; i++) {
+    for (let j = 0; j < grid.length; j++) {
+      if (grid[i][j] === 1) {
+
+      }
+    }
+  }
+};
+
 console.log(
   countServers([
     [0, 0, 1, 0, 1],
