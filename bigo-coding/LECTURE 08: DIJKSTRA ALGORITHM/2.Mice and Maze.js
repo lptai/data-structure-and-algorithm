@@ -7,7 +7,7 @@ const fs = require('fs');
 
 const rl = readline.createInterface({
   input: process.stdin,
-  input: fs.createReadStream('bigo-coding/LECTURE 08: DIJKSTRA ALGORITHM/0.input1.json'),
+  // input: fs.createReadStream('bigo-coding/LECTURE 08: DIJKSTRA ALGORITHM/0.input1.json'),
   output: process.stdout,
   terminal: false,
 });
@@ -150,7 +150,6 @@ rl.on('line', function (line) {
   const result = g.dijkstra(e);
   let count = 0;
   for (let [_, value] of result) {
-    console.log(_, value);
     if (value <= t) {
       count++;
     }
