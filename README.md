@@ -24,7 +24,7 @@
 
 ### Medium
 
-- [36. Valid Sudoku](leetcode/medium/36.%20Valid%20Sudoku.js) #graph
+- [36. Valid Sudoku](leetcode/medium/36.%20Valid%20Sudoku.js)
 - [37. Sudoku Solver](leetcode/medium/37.%20Sudoku%20Solver.js)
 - [130. Surrounded Regions](leetcode/medium/130.%20Surrounded%20Regions.js)
 - [137. Single Number II](leetcode/medium/137.%20Single%20Number%20II.js)
@@ -32,7 +32,7 @@
 - [260. Single Number III](leetcode/medium/260.%20Single%20Number%20III.js)
 - [994. Rotting Oranges](leetcode/medium/994.%20Rotting%20Oranges.js)
 - [1020. Number of Enclaves](leetcode/medium/1020.%20Number%20of%20Enclaves.js)
-- [1267. Count Servers that Communicate](leetcode/medium/1020.%20Number%20of%20Enclaves.js) #array #graph #bfs #dfs
+- [1267. Count Servers that Communicate](leetcode/medium/1020.%20Number%20of%20Enclaves.js)
 - [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](leetcode/medium/1267.%20Count%20Servers%20that%20Communicate.js)
 
 ## [Algo Expert](https://www.algoexpert.io/questions)
@@ -41,10 +41,10 @@
 
 - [x] [LECTURE 01: DYNAMIC ARRAY AND STRING](bigo-coding/LECTURE%2001:%20DYNAMIC%20ARRAY%20AND%20STRING)
 - [x] [LECTURE 02: ALGORITHM COMPLEXITY](bigo-coding/LECTURE%2002:%20ALGORITHM%20COMPLEXITY)
-- [ ] [LECTURE 03: SORTING](bigo-coding/LECTURE%2003:%20SORTING)
+- [x] [LECTURE 03: SORTING](bigo-coding/LECTURE%2003:%20SORTING)
 - [x] [LECTURE 04: STACK AND QUEUE](bigo-coding/LECTURE%2004:%20STACK%20AND%20QUEUE)
-- [ ] [LECTURE 05: BFS](bigo-coding/LECTURE%2005:%20BFS)
-- [ ] [LECTURE 06: DFS](bigo-coding/LECTURE%2006:%20DFS/)
+- [x] [LECTURE 05: BFS](bigo-coding/LECTURE%2005:%20BFS)
+- [x] [LECTURE 06: DFS](bigo-coding/LECTURE%2006:%20DFS/)
 - [ ] [LECTURE 07: HEAP](bigo-coding/)
 - [ ] [LECTURE 08: DIJKSTRA ALGORITHM](bigo-coding/)
 - [ ] [LECTURE 09: MIDTERM EXAM](bigo-coding/LECTURE%2009:%20MIDTERM%20EXAM)
